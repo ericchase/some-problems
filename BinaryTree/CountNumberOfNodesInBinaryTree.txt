@@ -1,0 +1,32 @@
+https://softwareengineering.stackexchange.com/questions/20927/what-is-your-favorite-whiteboard-interview-problem
+
+
+Count the number of nodes in a binary tree, given this interface:
+
+  public interface IBinaryTree<T>
+  {
+      IBinaryTree<T> Left();
+
+      IBinaryTree<T> Right();
+
+      T Data();
+  }
+
+
+And this assistant class:
+
+  class BinaryTreeNodeCounter
+  {
+      static int CountNodes( IBinaryTree tree )
+      {
+          // TODO: What goes here?
+      }
+  }
+
+
+It demonstrates knowledge of:
+
+  how a tree (binary tree in particular) works
+  the recursive definition of a binary tree
+  recursive methods and how base cases stop recursion
+  what counting a single node means
