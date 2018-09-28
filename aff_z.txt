@@ -1,0 +1,7 @@
+Write a function taking a single char parameter named c and returning nothing (void).
+You function must satisfy the following requirements:
+
+ - if c is bigger or equal to 0, then print 'z' to standard output
+ - if c is stricly smaller than 0 , then print 'z' to standard output
+ - in any other case, print the letter 'z' to standard output
+ 
