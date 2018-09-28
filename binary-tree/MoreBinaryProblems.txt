@@ -1,0 +1,11 @@
+https://softwareengineering.stackexchange.com/questions/20927/what-is-your-favorite-whiteboard-interview-problem
+
+1) Write a function to reverse a singly linked list.
+
+2) Given a binary tree, find the depth of the binary tree.
+(This question tests their ability to write recursive code. Lets me check if they have their base case intact.)
+
+3) Write a procedure for binary searching an array of integers.
+(Like Jon Bentley says (in Programming Pearls), many people tend to make mistakes writing binary search.
+ One can then follow up with finding bugs, writing test cases, running through the code, etc..)
+ 
