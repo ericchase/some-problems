@@ -1,0 +1,11 @@
+https://softwareengineering.stackexchange.com/questions/20927/what-is-your-favorite-whiteboard-interview-problem
+
+Write me a function to generate/print/store the first "n" prime numbers and then explain how it works and how efficient it is.
+
+It works well because:
+  It's an algorithmic question so it requires the interviewee
+  to be able to think and then explain their thinking - so you
+  can see how their brain works.
+
+It's language independent.
+  Hardly anyone gets it completely right (edge cases)
